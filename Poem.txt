@@ -1,1 +1,3 @@
 First line of a poem
+I'd rather to add 2 more lines to the first line.
+We'll the chanded text file with 3 lines.
